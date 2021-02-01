@@ -4,17 +4,17 @@
 
 La Amazon Machine Image (AMI) que vamos a seleccionar para esta práctica será la última versión de Ubuntu Server.
 https://bitnami.com/stack/drupal/cloud/aws/amis
-
-https://bitnami.com/redirect/to/1303349/drupal-9.1.2-1-amidebian-x64-hvm-ebs-nami?region=us-east-1
+![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/1.PNG "BIT")
 
  añadimos 2g de ram
- 
+ ![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/2.PNG "BIT")
 * Cuando esté creando la instancia deberá configurar los puertos que estarán abiertos para poder conectarnos por SSH y para poder acceder por HTTP/HTTPS.
 
 SSH (TCP)22
 HTTP (TCP)80
 HTTPS (TCP)443
 
+![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/3.PNG "BIT")
 * Crear un par de claves (pública y privada) para conectar por SSH con su instancia.
 seguimos la guia 
 https://www.drupal.org/docs/user_guide/en/index.html
