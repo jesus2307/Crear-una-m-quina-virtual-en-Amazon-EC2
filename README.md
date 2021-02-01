@@ -29,3 +29,4 @@ https://www.drupal.org/docs/user_guide/en/index.html
 Realizar la instalación del módulo de Drupal de Bitnami sobre la máquina. Puede encontrar más información sobre cómo realizar este paso en el archivo README del instalador del módulo de Drupal de Bitnami.
 https://www.drupal.org/docs/user_guide/en/install-tools.html
 https://bitnami.com/stack/drupal/README.txt
+![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/4.PNG "BIT")
