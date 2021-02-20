@@ -41,7 +41,10 @@ A continuación se muestra una captura de pantalla que demuestra que la instalac
 
 
 ## Realizar la instalación del módulo de Drupal de Bitnami sobre la máquina.
-realizar un túnel SSH
+Realizar un túnel SSH con putty
+
 ![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/Capturaputty.PNG "BIT")
+
+Comprobamos que podemos acceder a phpmyadmin
 
 ![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/Capturaphp.PNG "BIT")
