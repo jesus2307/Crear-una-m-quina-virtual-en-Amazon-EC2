@@ -40,8 +40,7 @@ A continuación se muestra una captura de pantalla que demuestra que la instalac
 ![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/4.PNG "BIT")
 
 
-## Realizar la instalación del módulo de Drupal de Bitnami sobre la máquina.
-Realizar un túnel SSH con putty
+## Realizar un túnel SSH con putty
 
 ![BIT](https://github.com/jesus2307/iaw-practica-12/blob/main/imagen/putty.PNG "BIT")
 
